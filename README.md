@@ -39,12 +39,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
-### 🏗️ [Government E-Service Website](https://github.com/Wakjira-Tesama/Gov_Eservice)
+### 🏗️ [Government E-Service Website](https://github.com/Wakjira-Tesama/Amazon.git)
 A **web platform** that enables citizens to apply for government services online.
 
 - 🧾 Includes form submission and document upload  
 - 🏢 Role-based access for admin and applicants  
-- ⚙️ Technologies: HTML, CSS, JS, PHP, MySQL  
+- ⚙️ Technologies: React.js ,Node.js, CSS,  MySQL  
 
 ---
 
