@@ -48,27 +48,27 @@ A **web platform** that enables citizens to apply for government services online
 
 ---
 
-### 🌾 [Farmers Market Link System](https://github.com/Wakjira-Tesama/FarmersMarket)
+### 🌾 [Farmers Market Link System](https://github.com/Wakjira-Tesama/Farmer_with_Market.git)
 A **platform connecting farmers with the market** and providing agricultural info.  
 
 - 🌱 Crop details and farming technologies  
 - 🚜 Market updates and buyer connections  
-- 🛠️ Built with: PHP, MySQL, Bootstrap  
+- 🛠️ Built with: React.js,Node.js, MySQL, Bootstrap  
 
 ---
 
-### 🌍 [Tourist Destination Guide](https://github.com/Wakjira-Tesama/Tourism-Website)
+### 🌍 [Tourist Destination Guide](https://github.com/Wakjira-Tesama/Oromia-Tourism-Website.git)
 A **tourism website** promoting Ethiopian destinations and cultural heritage.
 
 - 🏞️ Shows historical places, parks, and Gadaa system info  
 - 🏨 Includes accommodation and travel tips  
 - ⚡ Built with React.js & TailwindCSS  
 
->▶️ **Live Demo:** [View Website](https://wakjira.netlify.app/#) 🌐  
+>▶️ **Live Demo:** [View Website](https://oromiako.netlify.app/#) 🌐  
 
 ---
 
-### 🧾 [Student Management System](https://github.com/Wakjira-Tesama/Student-Management-System)
+### 🧾 [Student Management System](https://github.com/Wakjira-Tesama/ODA-Specail-Boarding-School.git)
 A PHP + MySQL system for managing student registrations and admin access.
 
 - 🔐 Admin login & session management  
