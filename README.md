@@ -1,10 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&repeat=false&lines=Hey%20%F0%9F%91%8B;I'm%20Wakjira%20Tesama" alt="Typing SVG" />
-</h1>
+<!-- HEADER: Gradient Wave + Dynamic Typing Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Wakjira%20Tesama&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Header" />
 
-<h2 align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Software%20Engineering%20Student;Full-Stack%20Web%20Developer;Passionate%20about%20Design%20%26%20Innovation" alt="Typing SVG" />
-</h2>     
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+at+ASTU;Full-Stack+Web+Developer;Passionate+about+Design+%26+Innovation" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=wakjiratesama@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/wakjira-tesama" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/@bulbula5" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
+
+<!-- SNAKE ANIMATION -->
+<h3 align="center">🐍 Contribution Journey</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -20,18 +45,6 @@
 - 💬 Ask me about: **React, TailwindCSS, Node.js, MySQL, and Frontend Animations**  
 - 🎯 Goal: To become a **Professional Full-Stack Developer**  
 - 📫 Reach me at: [wakjiratesama@gmail.com](mailto:wakjiratesama@gmail.com)  
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=wakjiratesama@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/wakjira-tesama" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/@bulbula5" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
 
 ---
 
@@ -143,15 +156,3 @@ My **modern responsive portfolio** to showcase projects, skills, and achievement
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=Wakjira-Tesama&theme=dracula" alt="GitHub Activity Graph">
 </p>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
