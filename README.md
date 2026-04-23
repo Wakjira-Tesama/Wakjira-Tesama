@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍🎓 About Me  
+## 👨🎓 About Me  
 
 🎓 I'm a **Software Engineering Student at Adama Science and Technology University**, passionate about **building modern web applications** that blend creativity and technology.  
 💡 Currently working on **Full Stack Web Projects** and improving my **React & Node.js** skills.  
@@ -143,3 +143,15 @@ My **modern responsive portfolio** to showcase projects, skills, and achievement
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=Wakjira-Tesama&theme=dracula" alt="GitHub Activity Graph">
 </p>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
