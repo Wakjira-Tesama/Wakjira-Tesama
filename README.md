@@ -1,6 +1,6 @@
-<!-- HEADER: Gradient Wave + Dynamic Typing Effect -->
+<!-- HEADER: Cyberpunk 3D Cylinder + Dynamic Typing Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Wakjira%20Tesama&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descAlign=50&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0f0c29,302b63,24243e&height=280&section=header&text=Wakjira%20Tesama&fontSize=85&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=65&descAlign=50&fontColor=00f2fe" alt="3D Cyberpunk Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+at+ASTU;Full-Stack+Web+Developer;Passionate+about+Design+%26+Innovation" alt="Typing SVG" />
@@ -103,35 +103,21 @@ My **modern responsive portfolio** to showcase projects, skills, and achievement
 
 ## 🧰 Skills & Tools
 
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-</p>
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,git,github&theme=dark" />
+</div>
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
-</p>
+<br/>
 
-### ⚡ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" title="Power BI"/>
-</p>
-
-### 🚀 Currently Learning
-<p align="left">
+<div align="center">
+  <h3>🚀 Currently Learning</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB"/>
-</p>
+</div>
 
 ---
 
