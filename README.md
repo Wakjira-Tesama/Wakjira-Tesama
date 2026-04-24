@@ -50,58 +50,6 @@
 
 ---
 
-<h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
-</h2>
-
-### 🏗️ [Government E-Service Website](https://github.com/Wakjira-Tesama/Amazon.git)
-A **web platform** that enables citizens to apply for government services online.
-
-- 🧾 Includes form submission and document upload  
-- 🏢 Role-based access for admin and applicants  
-- ⚙️ Technologies: React.js ,Node.js, CSS,  MySQL  
-
----
-
-### 🌾 [Farmers Market Link System](https://github.com/Wakjira-Tesama/Farmer_with_Market.git)
-A **platform connecting farmers with the market** and providing agricultural info.  
-
-- 🌱 Crop details and farming technologies  
-- 🚜 Market updates and buyer connections  
-- 🛠️ Built with: React.js,Node.js, MySQL, Bootstrap  
-
----
-
-### 🌍 [Tourist Destination Guide](https://github.com/Wakjira-Tesama/Oromia-Tourism-Website.git)
-A **tourism website** promoting Ethiopian destinations and cultural heritage.
-
-- 🏞️ Shows historical places, parks, and Gadaa system info  
-- 🏨 Includes accommodation and travel tips  
-- ⚡ Built with React.js & TailwindCSS  
-
->▶️ **Live Demo:** [View Website](https://oromiako.netlify.app/#) 🌐  
-
----
-
-### 🧾 [Student Management System](https://github.com/Wakjira-Tesama/ODA-Specail-Boarding-School.git)
-A PHP + MySQL system for managing student registrations and admin access.
-
-- 🔐 Admin login & session management  
-- 🧍 Student registration & listing  
-- 🧱 Comparison of MySQLi and PDO  
-
----
-
-### 💼 [Personal Portfolio](https://github.com/Wakjira-Tesama/Portfolio)
-My **modern responsive portfolio** to showcase projects, skills, and achievements.
-
-- 💻 Built with **React.js & TailwindCSS**  
-- 🎨 Smooth animations and clean layout  
-- 🚀 Hosted on **Netlify**  
-
->▶️ **Live Demo:** [Visit My Portfolio](https://wakjira.netlify.app/#) 🌐  
-
----
 
 ## 🧰 Skills & Tools
 
