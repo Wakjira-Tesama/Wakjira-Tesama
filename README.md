@@ -6,6 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+at+ASTU;Full-Stack+Web+Developer;Passionate+about+Design+%26+Innovation" alt="Typing SVG" />
   </a>
 </div>
+<!-- HEADER: Cyberpunk 3D Cylinder + Scale In Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0f0c29,302b63,24243e&height=280&section=header&text=Wakjira%20Tesama&fontSize=85&animation=scaleIn&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=65&descAlign=50&fontColor=00f2fe" alt="Animated Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382F7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+at+ASTU;Full-Stack+Web+Developer;Passionate+about+Design+%26+Innovation" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- SOCIAL LINKS -->
 <div align="center">
